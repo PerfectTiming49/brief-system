@@ -1,0 +1,132 @@
+{
+  "scholarships": [
+    {
+      "name": "Eiffel Excellence",
+      "url": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+      "reason": "French government scholarship for international students pursuing graduate studies in France, aligning with David's Paris relocation goal and MBA timeline.",
+      "deadline": null,
+      "intake_year": "2026/2027",
+      "fit_score": 7,
+      "_seen_at": "2026-04-24T01:02:24"
+    }
+  ],
+  "jobs": [
+    {
+      "firm": "Antin Infrastructure",
+      "title": "Investment Opportunities (unspecified roles)",
+      "location": "Paris",
+      "url": "https://www.antin-ip.com/careers/",
+      "fit_score": 8,
+      "reason": "Leading independent infrastructure PE firm with Paris HQ, perfect sector and geography match for David's profile and immediate relocation plans.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Meridiam",
+      "title": "Careers (unspecified roles)",
+      "location": "Paris",
+      "url": "https://meridiam.com/careers/",
+      "fit_score": 8,
+      "reason": "Major infrastructure and energy transition investor based in Paris with strong clean energy and hydrogen focus aligned to David's expertise.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Ardian",
+      "title": "Jobs & Internships (unspecified roles)",
+      "location": "Paris",
+      "url": "https://www.ardian.com/join-us",
+      "fit_score": 7,
+      "reason": "Global PE firm with Paris office, Infrastructure division, and explicit internship/job openings available for MBA-tier candidates.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Copenhagen Infrastructure Partners",
+      "title": "Vacancies (unspecified roles)",
+      "location": "Copenhagen",
+      "url": "https://cipartners.dk/careers/",
+      "fit_score": 8,
+      "reason": "Global leader in energy infrastructure and greenfield investments with explicit clean energy, hydrogen, and bioenergy fund focus matching David's sector expertise.",
+      "deadline": null,
+      "sector": "clean_energy",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Actis",
+      "title": "Associate Programme / Summer Associate",
+      "location": "London",
+      "url": "https://www.act.is/careers/",
+      "fit_score": 7,
+      "reason": "Major emerging markets infrastructure and energy investor with formal Associate and Summer Associate recruitment programs at MBA level.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Tikehau Capital",
+      "title": "Careers (unspecified roles)",
+      "location": "Paris",
+      "url": "https://www.tikehaucapital.com/en/careers",
+      "fit_score": 7,
+      "reason": "Paris-based multi-strategy investor with Private Equity, Credit, and Real Assets divisions including energy infrastructure opportunities.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Canada Infrastructure Bank",
+      "title": "Careers (unspecified roles)",
+      "location": "Ottawa",
+      "url": "https://cib-bic.ca/en/careers/",
+      "fit_score": 7,
+      "reason": "Canadian public finance institution with focus on clean energy and infrastructure, based in Ottawa matching David's home city and policy/public finance sector interest.",
+      "deadline": null,
+      "sector": "public_finance",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "ArcTern Ventures",
+      "title": "Associate",
+      "location": "San Francisco",
+      "url": "https://arcternventures.com/careers/",
+      "fit_score": 6,
+      "reason": "Climate/earthtech VC firm with Toronto presence and explicit Associate role open; strong sector fit though geography (SF) is secondary preference.",
+      "deadline": null,
+      "sector": "climate_vc",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "Northleaf Capital",
+      "title": "Careers (unspecified roles)",
+      "location": "Toronto",
+      "url": "https://www.northleafcapital.com/careers/",
+      "fit_score": 6,
+      "reason": "Mid-market PE and infrastructure investor with Toronto presence and global reach; infrastructure specialization matches David's profile and Canadian base.",
+      "deadline": null,
+      "sector": "infra_pe",
+      "_seen_at": "2026-04-24T01:02:24"
+    },
+    {
+      "firm": "EDC",
+      "title": "Careers (unspecified roles)",
+      "location": "Ottawa",
+      "url": "https://www.edc.ca/en/about-us/careers.html",
+      "fit_score": 6,
+      "reason": "Canadian public finance institution with export and infrastructure financing mandate; Ottawa-based and relevant to public finance sector target.",
+      "deadline": null,
+      "sector": "public_finance",
+      "_seen_at": "2026-04-24T01:02:24"
+    }
+  ],
+  "coverage": {
+    "ats": 0,
+    "scrape": 13,
+    "linkedin": 0,
+    "none": 16
+  },
+  "generated_at": "2026-04-24 01:02:24 UTC"
+}
