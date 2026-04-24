@@ -47,7 +47,7 @@
         <label class="block text-xs font-medium text-slate-700 mb-1">Show</label>
         <select id="show-filter" class="w-full border border-slate-300 rounded px-3 py-2 text-sm">
           <option value="all">All results</option>
-          <option value="new">New since yesterday</option>
+          <option value="new">New since last scrape</option>
           <option value="week">New this week</option>
         </select>
       </div>
@@ -126,7 +126,7 @@ function filterAndSort(items, kind) {
     const blob = JSON.stringify(i).toLowerCase();
     if (q && !blob.includes(q)) return false;
     if (kind === "jobs" && (i.fit_score || 0) < minFit) return false;
-    if (show === "new" && !isNewSince(i._seen_at, 1)) return false;
+    if (show === "new" && !isNewSince(i._seen_at, 3)) return false;
     if (show === "week" && !isNewSince(i._seen_at, 7)) return false;
     return true;
   });
