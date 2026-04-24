@@ -2,7 +2,7 @@ name: Daily Opportunity Scrape
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 8 AM EST = 12:00 UTC
+    - cron: '0 12 */3 * *'   # Every 3 days at 8 AM EST
   workflow_dispatch:        # lets you run it manually from GitHub UI
 
 permissions:
