@@ -1,4 +1,4 @@
-name: Daily Opportunity Scrape
+name: Opportunity Scrape
 
 on:
   schedule:
