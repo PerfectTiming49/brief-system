@@ -126,7 +126,7 @@ function filterAndSort(items, kind) {
     const blob = JSON.stringify(i).toLowerCase();
     if (q && !blob.includes(q)) return false;
     if (kind === "jobs" && (i.fit_score || 0) < minFit) return false;
-    if (show === "new" && !isNewSince(i._seen_at, 1)) return false;
+    if (show === "new" && !isNewSince(i._seen_at, 3)) return false;
     if (show === "week" && !isNewSince(i._seen_at, 7)) return false;
     return true;
   });
